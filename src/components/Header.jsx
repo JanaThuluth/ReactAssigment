@@ -15,7 +15,7 @@ const Header=()=>{
             <span className="navbar-toggler-icon"></span>
           </button>
           <div className="collapse navbar-collapse" id="navcol-2">
-            <img src="assets/img/n2wc3rbq3mm8c3cbqq.svg" alt="Logo" />
+            <img src="/assets/img/n2wc3rbq3mm8c3cbqq.svg" alt="Logo" />
             <ul className="navbar-nav ms-auto" style={{ margin: '20px', fontWeight: 'bold' }}>
               <li className="nav-item">
                 <a className="nav-link active" href="#" style={{ fontSize: '14px', color: 'rgb(58,118,162)' }}>
